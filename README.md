@@ -37,9 +37,8 @@ POST http://localhost:4000/spicy?status=<status>
 <status> can be one of:
 success → simulates a successful transaction
 declined → simulates a declined transaction
-ص
-Examples
 
+Examples
 Success:
 POST http://localhost:4000/spicy?status=success
 
